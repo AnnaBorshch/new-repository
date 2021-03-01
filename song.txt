@@ -1,1 +1,2 @@
 I Can Win
+7.	Using the github's web interface, add the second half of the lyrics and make a commit with the name "finish my song".
